@@ -6,3 +6,7 @@ Can use the below dependency statement to use the library or can add as a module
 `implementation 'com.bipin.fileselector:fileselector:1.0'`
 
 Works on all APIs
+
+How to use?
+
+`String path = FileUtils.getPath(context, uri);`
